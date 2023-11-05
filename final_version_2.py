@@ -1,5 +1,7 @@
 import pandas as pd
 import time
+#1 I have tone a first attempt to refactor the code ( as it requested on task 4)
+#2 I have tone a first attempt to refactor the code ( as it requested on task 4)
 
 # Define data files for each city
 CITY_DATA = {
